@@ -3,8 +3,8 @@ import keypad
 from adafruit_hid.consumer_control_code import ConsumerControlCode
 from adafruit_hid.keycode import Keycode
 
-from encoder import Encoder
-from hid import CcKey, KbKeys, KbKeys as Key
+from pico_macropad.encoder import Encoder
+from pico_macropad.hid import CcKey, KbKeys, KbKeys as Key
 
 
 def main():

@@ -13,6 +13,7 @@ def main():
     firstColumn.direction = Direction.OUTPUT
     firstColumn.value = True
 
+    # disable mass storage and serial connection if first button is not pressed on boot
     if not firstRow.value:
         storage.disable_usb_drive()
         usb_cdc.disable()
