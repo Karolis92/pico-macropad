@@ -12,7 +12,7 @@ In your CIRCUITPY drive:
 
 ## Case
 
-STL files for printing can be found on [Thingiverse](https://www.thingiverse.com/thing:5250884)
+STL files for printing can be found [here](https://www.printables.com/model/152449-raspberry-pi-pico-macropad).
 
 ## Photos
 
