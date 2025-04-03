@@ -10,6 +10,10 @@ In your CIRCUITPY drive:
 * Create `main.py` and write your code there. Example can be found in this repo.  
 * Optionally create `boot.py`. Example that disables usb drive and serial communication if first button in first row is not pressed on boot can be found in this repo. Be careful as that can potentially lock you out from accessing your microcontroller if pins are not configured correctly ([here](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#resetting-flash-memory) are flash reset instructions just in case).
 
+## Wiring
+
+I used matrix keyboard with diodes. Instructions from AdaFrui can be found [here](https://learn.adafruit.com/key-pad-matrix-scanning-in-circuitpython/keymatrix).
+
 ## Case
 
 STL files for printing can be found [here](https://www.printables.com/model/152449-raspberry-pi-pico-macropad).
