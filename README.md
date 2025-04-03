@@ -12,7 +12,7 @@ In your CIRCUITPY drive:
 
 ## Wiring
 
-I used matrix keyboard with diodes. Instructions from AdaFrui can be found [here](https://learn.adafruit.com/key-pad-matrix-scanning-in-circuitpython/keymatrix).
+I used matrix keyboard with diodes. Instructions from Adafruit can be found [here](https://learn.adafruit.com/key-pad-matrix-scanning-in-circuitpython/keymatrix).
 
 ## Case
 
